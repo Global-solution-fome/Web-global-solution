@@ -1,0 +1,30 @@
+.conteudo {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+ 
+}
+
+.conteudo-tit {   
+    padding: 2rem;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+
+}
+
+.texto p {
+    padding: 1rem ;
+}
+
+.texto li {
+    padding: 0.5rem;
+}
+a {
+    color: black;
+    text-decoration: none;
+  }
+  
