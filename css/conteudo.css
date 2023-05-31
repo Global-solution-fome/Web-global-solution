@@ -1,8 +1,9 @@
 
 /* Estilos da seção hero */
 .conteudo {
-    background-image: url('hero-bg.jpg');
+    background-image: url('../img/trigo.jpg');
     background-size: cover;
+    background-position: center;
     color: #fff;
     text-align: center;
     padding: 100px 0;
