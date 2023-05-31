@@ -9,12 +9,18 @@
     padding: 100px 0;
   }
   
-  .conteudo h1 {
+  .conteudo {
+    padding: 50px 210px;
+    text-align: center;
+
+  }
+
+  .conteudo h2 {
     font-size: 40px;
     margin-bottom: 20px;
   }
   
-  .conteudo p {
+  .texto p {
     font-size: 20px;
     margin-bottom: 40px;
   }
