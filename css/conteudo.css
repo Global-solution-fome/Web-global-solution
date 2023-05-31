@@ -1,30 +1,58 @@
+
+/* Estilos da seção hero */
 .conteudo {
-    margin: 2rem;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
- 
-}
-
-.conteudo-tit {   
-    padding: 2rem;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    font-size: 20px;
-    color: #333;
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    color: #fff;
     text-align: center;
-
-}
-
-.texto p {
-    padding: 1rem ;
-}
-
-.texto li {
-    padding: 0.5rem;
-}
-a {
-    color: black;
-    text-decoration: none;
+    padding: 100px 0;
   }
   
+  .conteudo h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .conteudo p {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  
+  
+  /* Estilos da seção features */
+  .card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+  }
+  
+  .card {
+    text-align: center;
+    margin: 0 20px;
+  }
+  
+  .card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  .testimonial {
+    background-color: #f8f8f8;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .testimonial blockquote {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial blockquote p {
+    font-size: 24px;
+  }
+  
+  .testimonial blockquote cite {
+    font-weight: bold;
+  }
