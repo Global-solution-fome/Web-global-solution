@@ -26,6 +26,15 @@
     text-align: center;
     padding: 100px 0;
   }
+
+  .conteudo-back4  {
+    background-image: url('../img/mature-bearded-man-working-with-plants.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
   
   
   .conteudo {
