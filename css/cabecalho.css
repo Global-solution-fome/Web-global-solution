@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     padding: 1rem;
-    background-color:  #d3d1d1de;
+    background-color:  #113a0f;
 }
   
   
@@ -24,7 +24,7 @@
 
  
 .cabecalho a {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
   
@@ -45,5 +45,5 @@
 }
 
 .cabecalho  a:hover {
-    background-color:  rgb(89, 88, 88);
+    background-color:  rgba(14, 53, 15, 0.909);
 }

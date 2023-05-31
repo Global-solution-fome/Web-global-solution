@@ -1,6 +1,6 @@
 
 /* Estilos da seção hero */
-.conteudo {
+.conteudo-back   {
     background-image: url('../img/trigo.jpg');
     background-size: cover;
     background-position: center;
@@ -8,13 +8,57 @@
     text-align: center;
     padding: 100px 0;
   }
+
+  .conteudo-back2   {
+    background-image: url('../img/agricultura-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+
+  .conteudo-back3  {
+    background-image: url('../img/ai-cloud-concept-with-robot-head.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+
+  .conteudo-back4  {
+    background-image: url('../img/mature-bearded-man-working-with-plants.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
   
-  .conteudo h1 {
+  
+  .conteudo {
+    padding: 50px 210px;
+    text-align: center;
+
+  }
+
+.conteudo h2{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+  .conteudo-back h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+
+  .conteudo-back2 h1 {
     font-size: 40px;
     margin-bottom: 20px;
   }
   
-  .conteudo p {
+  .texto p {
     font-size: 20px;
     margin-bottom: 40px;
   }
@@ -48,7 +92,7 @@
     margin-bottom: 20px;
   }
   .testimonial {
-    background-color: #f8f8f8;
+    background-color: #113a0f;
     padding: 100px 0;
     text-align: center;
   }
@@ -56,6 +100,7 @@
   .testimonial blockquote {
     font-style: italic;
     margin-bottom: 20px;
+    color: #fff;
   }
   
   .testimonial blockquote p {

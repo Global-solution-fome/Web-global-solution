@@ -1,10 +1,20 @@
 .roda-pe {
-    background-color: #333;
+    background-color: #181918;
     color: #fff;
     padding: 20px;
     text-align: center;
   }
+  .roda-pe2 {
+    background-color: #113a0f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    
+  }
 
 .roda-pe li {
     list-style: none;
+}
+.roda-pe2 li {
+  list-style: none;
 }
