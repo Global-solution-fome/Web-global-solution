@@ -1,0 +1,72 @@
+.conteudo-back   {
+    background-image: url('../img/trigo.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0px;
+  }
+
+  .conteudo-back h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+
+  .conteudo-back .btn {
+    width: 15%;
+    display: inline-block;
+    background-color: #088b13;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 10px;
+    font-size: 16px;
+  } 
+
+  .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+  }
+  
+  .card {
+    text-align: center;
+    margin: 0 20px;
+  }
+  
+  .card h2{
+    color: black;
+    font-weight: bold;
+  }
+  
+  .card p{
+    color: black;
+  }
+
+  .card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  .testimonial {
+    background-color: #113a0f;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .testimonial blockquote {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial blockquote p {
+    font-size: 24px;
+    color: #ffffff91;
+  }
+  
+  .testimonial blockquote cite {
+    font-weight: bold;
+  }
