@@ -43,3 +43,13 @@
     background-color: #fff;
     box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
   }
+
+  .left{
+    background: url("https://people.com/thmb/Y7hGg3sTKw_R4CGft4kBP9fB6tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/gettyimages-912162098-e721b40743b74aca841c99840f35df53.jpg") no-repeat center;
+    background-size: cover;
+    height: 100%;
+  }
+  
+  .right{
+    padding: 25px 40px;
+  }
