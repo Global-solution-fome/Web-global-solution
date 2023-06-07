@@ -1,8 +1,11 @@
 .roda-pe {
-    background-color: #181918;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+  background-color: #181918;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   }
   .roda-pe2 {
     background-color: #113a0f;
