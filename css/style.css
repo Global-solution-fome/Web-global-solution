@@ -1,7 +1,9 @@
-@import url(img-background.css);
+/* Os comentados não são necessarios no css global */
+/* @import url(img-background.css); */
 @import url(cabecalho.css);
-@import url(conteudo.css);
+/* @import url(conteudo.css); */
 @import url(roda-pe.css);
+/* @import url(formulario.css); */
 * {
     margin: 0;
     padding: 0;

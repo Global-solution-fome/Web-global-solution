@@ -1,0 +1,47 @@
+.conteudo-back2   {
+    background-image: url('../img/agricultura-background.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .conteudo {
+    padding: 50px 210px;
+    text-align: center;
+
+  }
+
+  .conteudo h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #113a0f;
+    font-weight: bold;
+  }
+
+  .conteudo-back2 h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  }
+
+  .conteudo-back2 p {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: rgb(206, 206, 206);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  }
+
+  .texto p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: black;
+  }
+
+
+  .conteudo h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+  }

@@ -1,14 +1,3 @@
-
-/* Estilos da seção hero */
-.conteudo-back   {
-    background-image: url('../img/trigo.jpg');
-    background-size: cover;
-    background-position: center;
-    color: #fff;
-    text-align: center;
-    padding: 100px 0;
-  }
-
   .conteudo-back2   {
     background-image: url('../img/agricultura-background.jpg');
     background-size: cover;
@@ -48,11 +37,6 @@
   margin-bottom: 20px;
 }
 
-  .conteudo-back h1 {
-    font-size: 40px;
-    margin-bottom: 20px;
-  }
-
   .conteudo-back2 h1 {
     font-size: 40px;
     margin-bottom: 20px;
@@ -62,15 +46,6 @@
     font-size: 20px;
     margin-bottom: 40px;
   }
-  
-  .btn {
-    display: inline-block;
-    background-color: #333;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    font-size: 16px;
-  } 
   
   /* Estilos da seção features */
   .cards {
@@ -85,6 +60,15 @@
     margin: 0 20px;
   }
   
+  .card h2{
+    color: black;
+    font-weight: bold;
+  }
+  
+  .card p{
+    color: black;
+  }
+
   .card img {
     width: 200px;
     height: 200px;
@@ -100,11 +84,11 @@
   .testimonial blockquote {
     font-style: italic;
     margin-bottom: 20px;
-    color: #fff;
   }
   
   .testimonial blockquote p {
     font-size: 24px;
+    color: #ffffff91;
   }
   
   .testimonial blockquote cite {
